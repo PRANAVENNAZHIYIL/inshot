@@ -1,0 +1,259 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.main-body{
+    width: 100%;
+    height: 100%;
+}
+.header{
+    height: 72px;
+    width: 100%;
+    position: fixed;
+    background: rgb(253, 249, 249);
+
+}
+#inshottext{
+    height: 31px;
+    width: 110px;
+    margin-top: 19px;
+    margin-left: 84px;
+    cursor: pointer;
+}
+#youtubeicon{
+    margin-left: 832px;
+    cursor: pointer;
+}
+.tik-instaicons{
+    margin-left: 50px;
+    cursor: pointer;
+}
+.container1{
+    background-image: url(3-1.jpg);
+    background-attachment: fixed;
+    width: 100%;
+    height: 718px;
+}
+.leftside{
+    float: left;
+}
+#icon{
+    height: 70px;
+    width: 70px;
+    margin-top: 153px;
+    margin-left: 80px;
+    margin-bottom: 40px;
+}
+.text1{
+    font-size: 35px;
+    font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+    color: #616161;
+    word-spacing: 1px;
+    margin-left: 77px;
+}
+.store{
+    height: 52px;
+    width: 176px;
+    border-radius: 8px;
+    background: black;
+    margin-top: 20px;
+    margin-left: 83px;
+}
+.store img{
+    height: 100%;
+    width: 100%;
+    cursor: pointer;
+}
+#appstore{
+    margin-top: 52px;
+}
+.rightside img{
+    float: left;
+    margin-left: 216px;
+    margin-top: 116px;
+    height: 640px;
+    width: 427px;
+}
+.container2{
+    
+    background-repeat: no-repeat;
+    height: 500px;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.795);
+    background-image: url(container2\ bg.png);
+    padding-top: 93px;
+}
+.left{
+    float: left;
+}
+#videoediting{
+    font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+    font-size: 46px;
+    margin-left: 121px;
+    color: white;
+}
+#ul1{
+    margin-left: 147px;
+    list-style-type: '-  ';
+    font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+    font-size: 22px;
+    color: white;
+    margin-top: 45px;
+    gap
+}
+li{
+    margin-bottom: 10px;
+}
+.right{
+    float: left;
+    padding: 0;
+}
+#plus{
+    margin-left: 157px;
+    margin-top: 70px;
+}
+#trim1{
+    margin-left: 40px;
+    margin-top: 60px;
+}
+#trim2{
+    margin-left: 311px;
+    margin-top: 35px;
+}
+#trim3{
+    margin-left: 368px;
+    margin-top: 41px;
+}
+.trimtext{
+    font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+    font-size: 22px;
+    color: white;
+}
+#tr1{
+    margin-left: 261px;
+    margin-top: 17px;
+}
+#tr2{
+    margin-left: 313px;
+    margin-top: 17px;
+}
+#tr3{
+    margin-left: 375px;
+    margin-top: 19px;
+}
+.container3{
+    height: 500px;
+    width: 100%;
+    background-image: url(container3\ bg.jpg);
+    padding-top: 54px;
+    font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+}
+#head1{
+    color: #445129;
+    font-size: 43px;
+    margin-left: 130px;
+}
+.f1{
+    margin-top: 70px;
+    margin-left: 53px;
+    border: white solid 10px;
+}
+.filter{
+    display: flex;
+}
+.f2{
+    margin-top: -4px;
+    margin-left: 53px;
+    height: 40px;
+    width: 202px;
+    background: white;
+}
+.f3{
+    margin-top: -4px;
+    margin-left: 57px;
+    height: 40px;
+    width: 202px;
+    background: white;
+}
+.f4{
+    margin-top: -4px;
+    margin-left: 58px;
+    height: 40px;
+    width: 202px;
+    background: white;
+}
+.filtername{
+    margin-top: 4px;
+    margin-left: 50px;
+    color: #616161;
+    font-size: 20px;
+}
+.container4{
+    height: 585px;
+    width: 100%;
+   background: #272727;
+   display: flex;
+   font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+   color: white;
+}
+#img1{
+    margin-left: 89px;
+    margin-top: 60px;
+    height: 447px;
+    width: 615px;
+}
+#popular{
+    margin-top: 88px;
+    margin-left: 87px;
+    font-size: 42px;
+}
+#ul2{
+    margin-left: -363px;
+    margin-top: 181px;
+    font-size: 20px;
+    list-style-type: '- ';
+}
+#img2{
+    height: 112px;
+    width: 383px;
+    margin-top: 364px;
+    margin-left: -195px;
+}
+.container5{
+    height: 600px;
+    width: 100%;
+    background-image: url(container5\ bg.jpg);
+    font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+    color: black;
+}
+#headcontainer5{
+    font-size: 48px;
+    font-weight: 700;
+    margin-left: 130px;
+    margin-top: 62px;
+}
+#ul3{
+    margin-top: 50px;
+    margin-left: 138px;
+    font-size: 20px;
+    list-style-type: '- ';
+}
+.footer{
+    font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+    display: flex;
+    height: 49px;
+    width: 100%;
+    color: #616161;
+    background: #272727;
+    padding-top: 28px;
+    font-size: 15px;
+}
+#txt1{
+    margin-left: 169px;
+}
+#txt2{
+    margin-left: 177px;
+}
+#txt3{
+    margin-left: 206px;
+}
